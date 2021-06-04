@@ -30,8 +30,8 @@
 </header>
 <div class="text-center">
 
-    <div class="container">
-        <p class="text-white display-3 font-weight-bold">Películas y series ilimitadas y mucho más.</p>
+    <div class="container" style="margin-top: 5%;">
+        <p class="text-white display-4 font-weight-bold">Películas y series ilimitadas y mucho más.</p>
         <h1 class="text-white">Disfruta donde quieras. Cancela cuando quieras.</h1>
     </div>
 </div>
