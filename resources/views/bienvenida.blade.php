@@ -33,15 +33,15 @@
     <div class="container" style="margin-top: 5%;">
         <p class="text-white display-4 font-weight-bold">Películas y series ilimitadas y mucho más.</p>
         <h1 class="text-white">Disfruta donde quieras. Cancela cuando quieras.</h1>
-
-            <form class="">
-                <div class="input-group col-md-6">
-                    <input type="text" class="form-control" placeholder="Correo" aria-label="Recipient's username" aria-describedby="basic-addon2">
-                    <div class="input-group-append">
-                        <button class="btn btn-danger" type="button">Comenzar ></button>
-                    </div>
+        <form class="">
+            <div class="input-group col-md-6">
+                <input type="text" class="form-control" placeholder="Correo" aria-label="Recipient's username"
+                       aria-describedby="basic-addon2">
+                <div class="input-group-append">
+                    <button class="btn btn-danger" type="button">Comenzar ></button>
                 </div>
-            </form>
+            </div>
+        </form>
     </div>
 
 </div>
