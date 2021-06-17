@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="es">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,8 +14,7 @@
         <nav class="navbar navbar-light">
             <ul class="navbar-nav">
                 <li class="nav-item active">
-                    <a class="nav-link font-weight-bold" href="#"><img class="col-md-4 img-fluid"
-                                                                       src="img/logo.png"></a>
+                    <a class="nav-link font-weight-bold" href="#"><img class="col-md-4 img-fluid" src="img/logo.png"></a>
                 </li>
             </ul>
             <ul class="navbar-nav float-right">
