@@ -58,7 +58,7 @@
                 @endif
             </form>
             <div class="form-group text-center">
-                <span><a href="" class="olvide1">Crear Cuenta</a></span>
+                <span><a href="{{route('registro')}}" class="olvide1">Crear Cuenta</a></span>
             </div>
         </div>
     </div>
