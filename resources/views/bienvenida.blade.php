@@ -22,7 +22,7 @@
             </ul>
             <ul class="navbar-nav float-right">
                 <li class="nav-item active text-right">
-                    <a href="#" class="btn-login btn btn-danger btn-group">Iniciar Sesión</a>
+                    <a href="{{route('login')}}" class="btn-login btn btn-danger btn-group">Iniciar Sesión</a>
                 </li>
             </ul>
         </nav>
